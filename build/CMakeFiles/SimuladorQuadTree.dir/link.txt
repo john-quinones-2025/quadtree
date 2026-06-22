@@ -1,1 +1,0 @@
-/usr/bin/g++ -g CMakeFiles/SimuladorQuadTree.dir/src/main.cpp.o CMakeFiles/SimuladorQuadTree.dir/src/QuadTree.cpp.o -o SimuladorQuadTree 
