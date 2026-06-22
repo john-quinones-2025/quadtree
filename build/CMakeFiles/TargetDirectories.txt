@@ -1,0 +1,2 @@
+/home/doom/simulador_quadtree/build/CMakeFiles/edit_cache.dir
+/home/doom/simulador_quadtree/build/CMakeFiles/rebuild_cache.dir
